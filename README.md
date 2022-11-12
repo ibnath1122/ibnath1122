@@ -9,10 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/meherunnesa-hossain-ibnath-8a3237214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/meherunnesa-hossain-ibnath-8a3237214" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/meherunnesahossain meherunnesa hossain ibnath on behance" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/meherunnesahossain meherunnesa hossain ibnath on behance" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/channel/ucg7abedxzhapkx6go1t2aag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/channel/ucg7abedxzhapkx6go1t2aag" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/ibnath__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/ibnath__" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/meherunnesa hossain ibnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meherunnesa hossain ibnath" height="30" width="40" /></a>
+<a href="https://www.behance.net/@meherunnesahossainibnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="@meherunnesahossainibnath" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/meherunnesa hossain ibnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="meherunnesa hossain ibnath" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/@ibnath__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="@ibnath__" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
