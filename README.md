@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Meherunnesa Hossain Ibnath</h1>
+<h1 align="center">Hi 👋, I'm Meherunnesa Hossain Ibnathsa</h1>
 <h3 align="center">A passionate programmer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibnath1122&label=Profile%20views&color=0e75b6&style=flat" alt="ibnath1122" /> </p>
@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/meherunnesa-hossain-ibnath-8a3237214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meherunnesa-hossain-ibnath-8a3237214" height="30" width="40" /></a>
 <a href="https://www.behance.net/meherunnesahossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="meherunnesahossain" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/meherunnesa hossain ibnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="meherunnesa hossain ibnath" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucg7abedxzhapkx6go1t2aag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucg7abedxzhapkx6go1t2aag" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/@ibnath__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="@ibnath__" height="30" width="40" /></a>
 </p>
 
