@@ -3,9 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibnath1122&label=Profile%20views&color=0e75b6&style=flat" alt="ibnath1122" /> </p>
 
-- 🌱 I’m currently learning **Computer Languages**
-
-- 📫 How to reach me **meherunnesa.ibnath20@gmail.com**
+🌱 I’m currently learning **Computer Languages**
+📫 How to reach me **meherunnesa.ibnath20@gmail.com**
+👩🏻‍🎓 Studying <b>Computer Science & Engineering at Ahsanullah University of Science & Technology, Dhaka</b><br/>
+🎨 Making videos about Computer Science, Graphic Design on [YouTube](https://www.youtube.com/@meherunnesahossainibnath5217)<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
