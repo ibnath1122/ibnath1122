@@ -19,7 +19,18 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-<a href="https://linkedin.com/in/meherunnesa-hossain-ibnath-8a3237214" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" /></a><a href="https://www.behance.net/meherunnesahossain" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" height="30" /></a><a href="https://www.youtube.com/@meherunnesahossainibnath5217" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" /></a><a href="https://codeforces.com/profile/@ibnath__" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" /></a>
+<a href="https://linkedin.com/in/meherunnesa-hossain-ibnath-8a3237214">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>&nbsp;&nbsp;
+<a href="https://www.behance.net/meherunnesahossain">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/@meherunnesahossainibnath5217">
+  <img src="https://skillicons.dev/icons?i=youtube" />
+</a>&nbsp;&nbsp;
+<a href="https://codeforces.com/profile/@ibnath__">
+  <img src="https://skillicons.dev/icons?i=codeforces" />
+</a>
 </p>
 ---
 
