@@ -12,7 +12,7 @@
 - 🎓 CSE Student at **Ahsanullah University of Science & Technology**
 - 💡 Passionate about **AI, Machine Learning & Software Development**
 - 🎥 Creating tech & design content on YouTube
-- 🔬 Researcher in **Sentiment Analysis & Deep Learning**
+- 🔬 Researcher in **NLP & Large Language Model**
 - 🌱 Currently exploring **Advanced Programming & AI Systems**
 
 ---
