@@ -56,22 +56,6 @@
 
 ## 🎥 Featured Projects (YouTube)
 <!-- Keep your existing YouTube cards here -->
-
----
-
-## 🏆 Achievements
-- 📝 Published multiple research papers in AI & Security
-- 🎤 Presented at international conferences
-- 💻 Built multiple academic & real-world projects
-
----
-
-## 💬 Quote
-<p align="center">
-  <i>"Building intelligent systems that make life smarter and simpler."</i>
-</p>
-
-# 💻 Featured YouTube Videos
 <!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
 <!-- If you want to display the latest videos, then simply follow the instructions in the above repo. -->
 <!-- If you however want to select which videos display, then you can manually generate the video link by changing the below parameters in angle brackets. -->
@@ -85,4 +69,11 @@
 [![Blood Bank Management...](https://ytcards.demolab.com/?id=5rYO4lZIYRw&title=Blood+Bank+Management...&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&views=721&likes=15&time=1+year+ago&max_title_lines=1&width=250&border_radius=5&duration=436 "Blood Bank Management System || CSE 2100 project || Java swing & Derby Database")](https://youtu.be/5rYO4lZIYRw?si=N2Nnk1A9oFM94cwD)
 [![Street Race Fury...](https://ytcards.demolab.com/?id=VLy8sHquSKg&title=Street+Race+Fury...&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&views=178&likes=8&time=2+years+ago&max_title_lines=1&width=250&border_radius=5&duration=436 "Street Race Fury || AUST CSE1200 project")](https://youtu.be/VLy8sHquSKg?si=GtkSxPWgjYOxczu3)
 <!-- END YOUTUBE-CARDS -->
+
+---
+
+## 💬 Quote
+<p align="center">
+  <i>"Building intelligent systems that make life smarter and simpler."</i>
+</p>
 
