@@ -32,7 +32,7 @@
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="50"/>
 </a>
 </p>
----
+
 
 ## ⚡ Tech Stack
 <p align="center">
