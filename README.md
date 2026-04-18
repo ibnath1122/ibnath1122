@@ -23,7 +23,7 @@
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>&nbsp;&nbsp;
 <a href="https://www.behance.net/meherunnesahossain">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" height="50"/>
 </a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/@meherunnesahossainibnath5217">
   <img src="https://skillicons.dev/icons?i=youtube" />
