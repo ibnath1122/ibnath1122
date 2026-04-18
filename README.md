@@ -21,15 +21,15 @@
 <p align="center">
 <a href="https://linkedin.com/in/meherunnesa-hossain-ibnath-8a3237214">
   <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>&nbsp;&nbsp;
+</a>&nbsp;
 <a href="https://www.behance.net/meherunnesahossain">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" height="48"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;
 <a href="https://www.youtube.com/@meherunnesahossainibnath5217">
-   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="48"/>
-</a>&nbsp;&nbsp;
+   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="50"/>
+</a>&nbsp;
 <a href="https://codeforces.com/profile/@ibnath__">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="48"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="50"/>
 </a>
 </p>
 ---
