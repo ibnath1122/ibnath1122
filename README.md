@@ -19,10 +19,18 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-<a href="https://linkedin.com/in/meherunnesa-hossain-ibnath-8a3237214"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://www.behance.net/meherunnesahossain"><img src="https://skillicons.dev/icons?i=behance" /></a>
-<a href="https://www.youtube.com/@meherunnesahossainibnath5217"><img src="https://skillicons.dev/icons?i=youtube" /></a>
-<a href="https://codeforces.com/profile/@ibnath__"><img src="https://skillicons.dev/icons?i=codeforces" /></a>
+<a href="https://linkedin.com/in/meherunnesa-hossain-ibnath-8a3237214">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://www.behance.net/meherunnesahossain">
+  <img src="https://skillicons.dev/icons?i=behance" />
+</a>
+<a href="https://www.youtube.com/@meherunnesahossainibnath5217">
+  <img src="https://skillicons.dev/icons?i=youtube" />
+</a>
+<a href="https://codeforces.com/profile/@ibnath__">
+  <img src="https://skillicons.dev/icons?i=codeforces" />
+</a>
 </p>
 
 ---
