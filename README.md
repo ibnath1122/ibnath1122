@@ -23,13 +23,13 @@
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>&nbsp;&nbsp;
 <a href="https://www.behance.net/meherunnesahossain">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" height="50"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" height="48"/>
 </a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/@meherunnesahossainibnath5217">
-  <img src="https://skillicons.dev/icons?i=youtube" />
+   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="48"/>
 </a>&nbsp;&nbsp;
 <a href="https://codeforces.com/profile/@ibnath__">
-  <img src="https://skillicons.dev/icons?i=codeforces" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="48"/>
 </a>
 </p>
 ---
